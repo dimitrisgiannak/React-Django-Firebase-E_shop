@@ -15,7 +15,7 @@ This project is a group project during my bootcamp experience
 
 # Download & Setup Instructions
 
-* Clone project: git clone [https://github.com/dimitrisgiannak/React-Django-Firebase-E_shop](https://link-url-here.org)
+* Clone project: git clone [https://github.com/dimitrisgiannak/React-Django-Firebase-E_shop/]
 * cd groupREVISED
 * Create virtual environment: virtualenv myenv
 * myenv\scripts\activate
