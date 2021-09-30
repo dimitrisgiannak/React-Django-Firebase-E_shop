@@ -2,7 +2,7 @@
 
 This project is a group project during my bootcamp experience
 
-![https://github.com/dimitrisgiannak/React-Django-Firebase-E_shop/blob/main/project_img/homepage.png]
+![https://github.com/dimitrisgiannak/React-Django-Firebase-E_shop/blob/main/project_img/homepage.png](img)
 
 # Features
 
