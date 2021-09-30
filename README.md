@@ -2,6 +2,8 @@
 
 This project is a group project during my bootcamp experience
 
+![alt text]
+
 # Features
 
 * Shopping cart
