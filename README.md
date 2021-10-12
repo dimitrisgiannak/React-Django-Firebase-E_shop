@@ -11,7 +11,7 @@ This project is a group project during my bootcamp experience
 * Rating 
 * Search bar with autocomplete
 * User profile with orders
-* Change your profile credencials
+* Change your profile credentials
 * Paypal integration
 * Chatroom with Firebase
 
@@ -46,4 +46,4 @@ This project is a group project during my bootcamp experience
 * remove inline css
 * sign in to firebase chat when user logs in so his name will be displayed while sending a message
 * add htmlonly cookie so that we wont store valuable info on localstorage
-* match more coming !
+* much more coming !
